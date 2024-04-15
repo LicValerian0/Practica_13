@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636596730483",
+    "project_id": "practica13-9b91f",
+    "storage_bucket": "practica13-9b91f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636596730483:android:2a1b1755bb7ce588638806",
+        "android_client_info": {
+          "package_name": "mx.edu.itesca.practica_13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCszkco42lrhjFl9gsxUbdm51mXM8eWN2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
